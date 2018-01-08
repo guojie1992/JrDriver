@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">驾培远程教育</string>
+    <string name="version">当前版本：1.1.0</string>
+    <string name="versionName">1</string>
+    <string name="neterrmsg">网络不给力</string>
+    <string name="title_dialog">友情提示</string>
+    <string name="message_permission_failed">尚未获取SD卡读取权限</string>
+    <string name="message_permission_rationale">获取SD卡读取权限</string>
+    <string name="btn_dialog_yes_permission">去设置</string>
+    <string name="btn_dialog_no_permission">取消</string>
+    <string name="message_setting_back">用户从设置回来了</string>
+    <string name="message_post_succeed">获取SD卡权限成功</string>
+    <string name="message_post_failed">获取SD卡权限失败</string>
+</resources>

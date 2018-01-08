@@ -1,0 +1,56 @@
+{
+    "launcherVerCode": 5, 
+    "appListVerCode": 1, 
+    "defaultPackName": "com.gzjr.gzdt", 
+    "updateSrvWifi": "http://202.103.178.16:10114/AppUpdateServer/", 
+    "updateSrvMobileYD": "http://192.168.55.2:10114/AppUpdateServer/", 
+    "updateSrvMobileLT": "http://192.168.1.3:10114/AppUpdateServer/", 
+    "updateSrvMobileDX": "http://192.168.66.2:10114/AppUpdateServer/", 
+    "appList": [
+        {
+            "appName": "驾培计时系统", 
+            "apkName": "DriverTrainFor2.x.apk", 
+            "autoInstall": "false", 
+            "mgrMode": "false", 
+            "packName": "com.gzjr.gzdt", 
+            "verName": "1.0.5", 
+            "verCode": 6
+        }, 
+ 	   {
+            "appName": "一键关机重启", 
+            "apkName": "reboot.apk", 
+            "autoInstall": "false", 
+            "mgrMode": "false", 
+            "packName": "com.feistma.reboot", 
+            "verName": "1.4.0", 
+            "verCode": 0
+        }, 
+        {
+            "appName": "ES文件浏览器", 
+            "apkName": "EsFileExplorer.apk", 
+            "autoInstall": "false", 
+            "mgrMode": "true", 
+            "packName": "com.estrongs.android.pop", 
+            "verName": "3.2.4.1", 
+            "verCode": 0
+        }, 
+        {
+            "appName": "APN设置", 
+            "apkName": "ApnSetting.apk", 
+            "autoInstall": "false", 
+            "mgrMode": "true", 
+            "packName": "com.gzjr.apnsetting", 
+            "verName": "1.0", 
+            "verCode": 1
+        }, 
+        {
+            "appName": "讯飞语音+", 
+            "apkName": "xfyy.apk", 
+            "autoInstall": "false", 
+            "mgrMode": "true", 
+            "packName": "com.iflytek.speechcloud", 
+            "verName": "1.1.1045", 
+            "verCode": 112
+        }
+    ]
+}
